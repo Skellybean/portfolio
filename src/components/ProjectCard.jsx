@@ -41,7 +41,6 @@ export default function ProjectCard({ p }) {
 
       <div className="mt-5 h-px w-full bg-white/10" />
       <p className="mt-4 text-xs text-white/50">
-        Tip: add screenshots later as a carousel or modal 👀
       </p>
     </div>
   );

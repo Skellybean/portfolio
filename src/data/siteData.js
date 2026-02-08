@@ -33,7 +33,7 @@ export const site = {
     {
       title: "Hospital Management System",
       description:
-        "A full-stack system for patient records, appointments, and admin workflows.",
+        "A full-stack system for patient records, appointments, and admin workflows. Still work in progress",
       tags: ["React", "API", "PostgreSQL", "Django"],
       links: {
         live: "https://hospital-django-rho.vercel.app/",
@@ -47,7 +47,7 @@ export const site = {
       tags: ["React", "Tailwind"],
       links: {
         live: "https://example.com",
-        code: "https://github.com/your-username/project",
+        code: "https://github.com/Skellybean/portfolio",
       },
     },
   ],
