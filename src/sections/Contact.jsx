@@ -37,10 +37,7 @@ export default function Contact() {
 
         <div className="rounded-3xl border border-white/10 bg-white/5 p-6">
           <p className="text-sm font-semibold text-white">Quick message</p>
-          <p className="mt-1 text-sm text-white/60">
-            This form is UI-only (no backend). If you want, I can wire it to
-            EmailJS, Formspree, or your own API.
-          </p>
+          
 
           <form
             className="mt-4 space-y-3"
